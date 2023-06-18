@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debanshi Todi</h1>
 <h3 align="center">I am software developer and a lifetime-learner, currently in my 3rd year @University of Waterloo</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debs415" alt="debs415" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/>
 - 🔭 I’m currently working on **building a call conversion prediction software**
 
 - 🌱 I’m currently learning **tensorflow**
