@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **dtodi@uwaterloo.ca**
 
-- 📄 Know about my experiences [www.resume.com](www.resume.com)
-
 - ⚡ Fun fact **I am qualified to teach yoga professionally**
 
 <h3 align="left">Connect with me:</h3>
