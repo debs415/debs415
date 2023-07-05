@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dtodi@uwaterloo.ca**
 
-- ⚡ Fun fact **I am qualified to teach yoga professionally**
+- ⚡ Fun fact : I am qualified to teach yoga professionally
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
