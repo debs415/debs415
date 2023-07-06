@@ -8,8 +8,6 @@
 
 - 👯 I’m looking to collaborate on **anything web dev, AI or ML**
 
-- 👨‍💻 All of my projects are available at [https://debanshi-todi.netlify.app/](https://debanshi-todi.netlify.app/)
-
 - 💬 Ask me about **MERN, AI/ML, productivity, school, etc.**
 
 - 📫 How to reach me **dtodi@uwaterloo.ca**
