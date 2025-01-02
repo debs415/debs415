@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debanshi Todi</h1>
-<h3 align="center">I am a software developer and a lifetime-learner, currently in my 3rd year @University of Waterloo</h3>
+<h3 align="center">I am a software developer and a lifetime-learner, currently in my final year @University of Waterloo</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/>
-
-- 🔭 I’m currently working on **building a call conversion prediction software**
-
-- 🌱 I’m currently learning **tensorflow**
 
 - 👯 I’m looking to collaborate on **anything web dev, AI or ML**
 
